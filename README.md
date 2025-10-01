@@ -15,4 +15,4 @@ This project was built as a learning exercise in C#, focusing on game mechanics,
 - Simple and lightweight C# codebase.
 
 ## 📜 License
-MIT License © 2025 Ivo Peterka
+Copyright 2025 © Ivo Peterka
