@@ -1,0 +1,23 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
